@@ -1,0 +1,7 @@
+﻿  av2bv.cpp
+C:\Users\Lawrence Link\source\repos\av2bv\av2bv.cpp(20,24): warning C4244: “初始化”: 从“float”转换到“__int64”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 396 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  av2bv.vcxproj -> C:\Users\Lawrence Link\source\repos\av2bv\Release\av2bv.exe
